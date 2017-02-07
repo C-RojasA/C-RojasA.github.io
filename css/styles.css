@@ -1,0 +1,10 @@
+.nota{
+    width: auto;
+    height: 10vh;
+}
+
+.scale{
+	max-width:100%;
+    height:auto;
+    position: relative;
+}
